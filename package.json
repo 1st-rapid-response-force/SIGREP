@@ -1,0 +1,21 @@
+{
+  "name": "sigrep",
+  "version": "1.0.0",
+  "description": "SIGREP is a server monitoring and management tool for ARMA III",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://AJCStriker@github.com/1st-rapid-response-force/SIGREP.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1st-rapid-response-force/SIGREP/issues"
+  },
+  "homepage": "https://github.com/1st-rapid-response-force/SIGREP#readme",
+  "dependencies": {
+    "battle-node": "^0.1.2"
+  }
+}
