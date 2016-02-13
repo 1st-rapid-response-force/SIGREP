@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/1st-rapid-response-force/SIGREP#readme",
   "dependencies": {
-    "battle-node": "^0.1.2"
+    "battle-node": "^0.1.2",
+    "winston": "^2.1.1"
   }
 }
